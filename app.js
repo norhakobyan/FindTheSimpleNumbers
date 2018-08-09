@@ -19,7 +19,6 @@ function FindTheSimpleNumbers (arr, a) {
   var j = leng - 2;
   var k = leng - 1;
   var d;
-  var xer = 0;
  for (let i = 0; i < a; ++i) {
    if (j == -1) {
      var j = leng - 2;
